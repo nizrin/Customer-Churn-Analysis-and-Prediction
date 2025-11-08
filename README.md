@@ -6,7 +6,7 @@ Customer churn refers to the loss of customers over time. This project focuses o
 
 📊 Dataset
 
-The dataset contains customer information, service details, and churn status.
+The dataset contains customer information, service details, and churn status..
 
 Features include demographics, account details, usage patterns, and customer engagement metrics.
 
